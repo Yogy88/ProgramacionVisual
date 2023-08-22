@@ -1,0 +1,8 @@
+E:\MEGA\FACU\Programacion visual\3erCuatri\Parcial 1_Braga\Qatar 2022\Qatar 2022\obj\Debug\net5.0-windows\Qatar 2022.csproj.AssemblyReference.cache
+E:\MEGA\FACU\Programacion visual\3erCuatri\Parcial 1_Braga\Qatar 2022\Qatar 2022\obj\Debug\net5.0-windows\Qatar_2022.Cargapaises.resources
+E:\MEGA\FACU\Programacion visual\3erCuatri\Parcial 1_Braga\Qatar 2022\Qatar 2022\obj\Debug\net5.0-windows\Qatar_2022.Properties.Resources.resources
+E:\MEGA\FACU\Programacion visual\3erCuatri\Parcial 1_Braga\Qatar 2022\Qatar 2022\obj\Debug\net5.0-windows\Qatar 2022.csproj.GenerateResource.cache
+E:\MEGA\FACU\Programacion visual\3erCuatri\Parcial 1_Braga\Qatar 2022\Qatar 2022\obj\Debug\net5.0-windows\Qatar 2022.GeneratedMSBuildEditorConfig.editorconfig
+E:\MEGA\FACU\Programacion visual\3erCuatri\Parcial 1_Braga\Qatar 2022\Qatar 2022\obj\Debug\net5.0-windows\Qatar 2022.AssemblyInfoInputs.cache
+E:\MEGA\FACU\Programacion visual\3erCuatri\Parcial 1_Braga\Qatar 2022\Qatar 2022\obj\Debug\net5.0-windows\Qatar 2022.AssemblyInfo.cs
+E:\MEGA\FACU\Programacion visual\3erCuatri\Parcial 1_Braga\Qatar 2022\Qatar 2022\obj\Debug\net5.0-windows\Qatar 2022.csproj.CoreCompileInputs.cache
