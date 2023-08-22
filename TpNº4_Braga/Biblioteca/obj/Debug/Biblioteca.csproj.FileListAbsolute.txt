@@ -1,0 +1,28 @@
+E:\MEGA\FACU\Programacion visual\Primer cuatrimestre 2021\TP 4 – Aplicación Winforms + BD\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+E:\MEGA\FACU\Programacion visual\Primer cuatrimestre 2021\TP 4 – Aplicación Winforms + BD\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+E:\MEGA\FACU\Programacion visual\Primer cuatrimestre 2021\TP 4 – Aplicación Winforms + BD\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+E:\MEGA\FACU\Programacion visual\Primer cuatrimestre 2021\TP 4 – Aplicación Winforms + BD\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+E:\MEGA\FACU\Programacion visual\Primer cuatrimestre 2021\TP 4 – Aplicación Winforms + BD\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CargaLibros.resources
+E:\MEGA\FACU\Programacion visual\Primer cuatrimestre 2021\TP 4 – Aplicación Winforms + BD\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+E:\MEGA\FACU\Programacion visual\Primer cuatrimestre 2021\TP 4 – Aplicación Winforms + BD\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+E:\MEGA\FACU\Programacion visual\Primer cuatrimestre 2021\TP 4 – Aplicación Winforms + BD\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+E:\MEGA\FACU\Programacion visual\Primer cuatrimestre 2021\TP 4 – Aplicación Winforms + BD\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+E:\MEGA\FACU\Programacion visual\Primer cuatrimestre 2021\TP 4 – Aplicación Winforms + BD\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+E:\MEGA\FACU\Programacion visual\Primer cuatrimestre 2021\TP 4 – Aplicación Winforms + BD\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+E:\MEGA\FACU\Programacion visual\segundo cuatri 2021\TP5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+E:\MEGA\FACU\Programacion visual\segundo cuatri 2021\TP5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CargaLibros.resources
+E:\MEGA\FACU\Programacion visual\segundo cuatri 2021\TP5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+E:\MEGA\FACU\Programacion visual\segundo cuatri 2021\TP5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+E:\MEGA\FACU\Programacion visual\segundo cuatri 2021\TP5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+E:\MEGA\FACU\Programacion visual\segundo cuatri 2021\TP5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+E:\MEGA\FACU\Programacion visual\segundo cuatri 2021\TP5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+E:\MEGA\FACU\Programacion visual\3erCuatri\TpNº4_Braga\Biblioteca\bin\Debug\Biblioteca.exe.config
+E:\MEGA\FACU\Programacion visual\3erCuatri\TpNº4_Braga\Biblioteca\bin\Debug\Biblioteca.exe
+E:\MEGA\FACU\Programacion visual\3erCuatri\TpNº4_Braga\Biblioteca\bin\Debug\Biblioteca.pdb
+E:\MEGA\FACU\Programacion visual\3erCuatri\TpNº4_Braga\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+E:\MEGA\FACU\Programacion visual\3erCuatri\TpNº4_Braga\Biblioteca\obj\Debug\Biblioteca.CargaLibros.resources
+E:\MEGA\FACU\Programacion visual\3erCuatri\TpNº4_Braga\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+E:\MEGA\FACU\Programacion visual\3erCuatri\TpNº4_Braga\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+E:\MEGA\FACU\Programacion visual\3erCuatri\TpNº4_Braga\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+E:\MEGA\FACU\Programacion visual\3erCuatri\TpNº4_Braga\Biblioteca\obj\Debug\Biblioteca.exe
+E:\MEGA\FACU\Programacion visual\3erCuatri\TpNº4_Braga\Biblioteca\obj\Debug\Biblioteca.pdb
